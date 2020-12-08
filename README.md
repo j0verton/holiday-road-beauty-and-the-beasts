@@ -1,3 +1,22 @@
+
+# Team Read Me
+
+## How to use -
+
+- First clone down the repo, to get the needed files.
+- Once we have the files pulled down. You want to start a JSON-Server on db.json so that we can use our local api
+- Then serve a localhost for your browser.
+
+## Who is the App for?
+
+- We designed this app with Charles in mind - (Persona listed above)
+- We added features to make sure that he can find out if the locations are accessible and have cell coverage.
+- We used a lot of white space, because based on his persona that looked like a style he would like.
+- We decided to go with a 3 column layout to make it easier to scan, and allows the user to manipulate the data left to right.
+
+![](./imgs/readmeWireframe.png)
+
+
 # Holiday Road from Nashville
 
 You and your teammates have been contracted by the National Parks Service to build an application that will allow people to build itineraries for their trips to the beautiful national parks that they maintain. The starting point of each trip will be Nashville, TN, but the destination will a national park selected by the user.
@@ -199,20 +218,3 @@ https://graphhopper.com/api/1/route?point=starting_latitude,starting_longitude&p
 ### Peter
 
 ![](./personas/persona-peter.png)
-
-# Team Read Me
-
-## How to use -
-
-- First clone down the repo, to get the needed files.
-- Once we have the files pulled down. You want to start a JSON-Server on db.json so that we can use our local api
-- Then serve a localhost for your browser.
-
-## Who is the App for?
-
-- We designed this app with Charles in mind - (Persona listed above)
-- We added features to make sure that he can find out if the locations are accessible and have cell coverage.
-- We used a lot of white space, because based on his persona that looked like a style he would like.
-- We decided to go with a 3 column layout to make it easier to scan, and allows the user to manipulate the data left to right.
-
-![](./imgs/readmeWireframe.png)
